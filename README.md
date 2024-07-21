@@ -1,10 +1,11 @@
 # Crud completo con Django REST framework y React
 
 
-[![PYTHON](https://img.shields.io/badge/Python-1B4D75?style=flat-square&logo=python&logoColor=white&labelColor=101010)]()
-[![DJANGO REST FRAMEWORK](https://img.shields.io/badge/DjangoRestFramework-B10202?style=flat-square&logo=Django&logoColor=white&labelColor=101010)]()
-[![REACT](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white&labelColor=101010)]()
-[![VITE](https://img.shields.io/badge/Vite-purple?style=flat-square&logo=vite&logoColor=white&labelColor=101010)]()
+[![PYTHON](https://img.shields.io/badge/Python-1B4D75?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Django](http://img.shields.io/badge/Django-11423E?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+[![DJANGO REST FRAMEWORK](https://img.shields.io/badge/DjangoRestFramework-B00000?style=for-the-badge&logo=Django&logoColor=white&labelColor=101010)]()
+[![REACT](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![VITE](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite&logoColor=white&labelColor=101010)]()
 
 ---
 
