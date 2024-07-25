@@ -1,12 +1,16 @@
-import './App.css'
-
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
+import { Navigation } from "./components/Navigation"
+import { Toaster } from "react-hot-toast"
 
 function App() {
 
   return (
-    <>
-      <h1>HOME</h1>
-    </>
+    <BrowserRouter>
+      <main className="container mx-auto">
+        <Navigation/>
+        <h1>home</h1>
+      </main>
+    </BrowserRouter>
   )
 }
 
